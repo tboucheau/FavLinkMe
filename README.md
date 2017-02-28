@@ -45,7 +45,8 @@ En tant que **<=>**, je souhaite être capable de **<=>**, pour que **<=>**.
 ## Modélisation des Données
 
 **Bookmark**
-	- url:string
+	- title:string
+	- url:text
 
 **Category**
 	- title:string
