@@ -106,10 +106,17 @@ Vous devriez voir la sortie suivante sur votre terminal :
 </pre>
 
 ##ToDo
-- Mettre en place un style visuel
+- Créer la maquette HTML
 - Créer l'application rails
 - Mettre en place le scrapping des sites
 - ....
+
+## Prototype
+![Ecran de login](_prototype/écran login.JPG)
+![Ecran d'accueil](_prototype/écran d'accueil.JPG)
+![CRUD bookmarks](_prototype/bookmarks crud.JPG)
+![Ecran bookmarks](_prototype/écran bookmarks.JPG)
+![Ecran categories](_prototype/écran catégories.JPG)
 
 ## Application en production
 To be done
